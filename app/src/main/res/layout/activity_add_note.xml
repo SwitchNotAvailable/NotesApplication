@@ -26,7 +26,6 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:padding="8dp"
-                android:src="@tools:sample/avatars"
                 tools:src="@drawable/baseline_arrow_back_24" />
 
             <ImageView
@@ -36,7 +35,6 @@
                 android:layout_alignParentEnd="true"
                 android:layout_marginEnd="14dp"
                 android:padding="8dp"
-                android:src="@tools:sample/avatars"
                 tools:src="@drawable/baseline_check_24" />
         </RelativeLayout>
 
